@@ -1,0 +1,23 @@
+# Build output (HaxeFlixel / Lime)
+export/
+bin/
+build/
+dump/
+
+# Haxe
+*.hxml.cache
+.haxelib/
+haxe_libraries/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.idea/
+*.swp
+*~
+
+# Logs
+*.log
