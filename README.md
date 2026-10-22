@@ -3,10 +3,12 @@
 > Este proyecto esta abandonado.
 
 Juego satirico que hice como burla hacia mi amigo [REDACTED].
+<br>
 Hecho en HaxeFlixel inspirado en Undertale.
+<br>
 La historia, chistes, y referencias estan basados en mi circulo social.
-
-Subido a GitHub para archivo. No lo juegues, no lo entenderas.
+<br>
+Subido a GitHub para archivo. No lo juegues, no tienes contexto.
 
 ## Requisitos
 
